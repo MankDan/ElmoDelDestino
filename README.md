@@ -75,7 +75,7 @@ To provide a smooth user experience, `AdvConsole` uses several techniques:
 1.  Clone the repository to your local machine:
     ```bash
     git clone https://github.com/MankDan/ElmoDelDestino.git
-    cd ElmoDelDestino.git
+    cd ElmoDelDestino
     ```
 2.  Navigate to the source directory and use the .NET CLI to run the project:
     ```bash
