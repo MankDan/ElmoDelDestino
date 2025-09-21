@@ -75,11 +75,11 @@ To provide a smooth user experience, `AdvConsole` uses several techniques:
 1.  Clone the repository to your local machine:
     ```bash
     git clone https://github.com/MankDan/ElmoDelDestino.git
-    cd YOUR_REPOSITORY
+    cd ElmoDelDestino.git
     ```
 2.  Navigate to the source directory and use the .NET CLI to run the project:
     ```bash
-    dotnet run --project src/Gioco
+    dotnet run --project src
     ```
 
 On the first launch, the application will automatically create a `.elmodeldestino` directory in your local application data folder (`%localappdata%`) to store save files and configurations.
