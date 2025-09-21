@@ -1,0 +1,26 @@
+# File di configurazione specifici dell'utente
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File di configurazione di Rider
+.idea/
+*.sln.iml
+
+# File generati da Visual Studio
+*.vs/
+*.sln.metaproj
+
+# Cartelle di output della build
+[Bb]in/
+[Oo]bj/
+
+# Pacchetti NuGet
+[Pp]ackages/
+*.nupkg
+
+# File di log e temporanei
+*.log
+*.tmp
+*.bak
